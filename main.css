@@ -1,0 +1,33 @@
+html {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 300;
+}
+
+.ip {
+	border: 3px solid #000;
+	border-radius: 15px;
+	width: 35%;
+	text-align: center;
+	font-size: 1.75em;
+	background: #999;
+	margin: 2% auto;
+	border-spacing: 5px;
+}
+
+.ip-bg {
+	background: yellow;
+}
+
+.ip b {
+	margin: 0;
+}
+
+.calc {
+	margin: 0 auto;
+	width: 35%;
+	text-align: center;
+}
+
+.calc button {
+	margin: 10px;
+}
